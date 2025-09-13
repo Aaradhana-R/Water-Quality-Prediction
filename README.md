@@ -1,20 +1,16 @@
 # Water Quality Prediction
 
-## Introduction
-
-This repository represents the final project submission for Group 4 (The Avengers) in the DSCI-6001 (Fall 2023) course under the guidance of Dr. Ardiana Sula.
 
 The group members are:
 
-- [A Shriya ](https://www.linkedin.com/in/shraddha-shrestha-j06/)
-- [Aaradhana R](https://www.linkedin.com/in/mallikarjun-aitha/)
-- [Nishmista Shetty B S](https://www.linkedin.com/in/sirihg/)
+- [Shriya Arun Kumar  ](https://www.linkedin.com/in/shriya-arun-0347a1351/)
+- [Aaradhana Ramu ](https://www.linkedin.com/in/aaradhana-r-865ba12a1/)
+- [Nishmista Shetty B S](www.linkedin.com/in/nishmitha-shetty-567903316)
 
-- Madhavi Kancham
 
 ## Project Overview
 
-This repository contains the final project submission for the Water Quality Prediction. This project employs machine learning to predict water potability, assessing safety through diverse quality indicators. The dataset includes pH, hardness, and chemical concentrations, forming the basis for predictive models. Addressing imbalances, ethical concerns, and feature analysis, the project contributes to proactive water quality management, aiming for global access to clean and safe drinking water.
+This repository contains the project submission for the Water Quality Prediction. This project employs machine learning to predict water potability, assessing safety through diverse quality indicators. The dataset includes pH, hardness, and chemical concentrations, forming the basis for predictive models. Addressing imbalances, ethical concerns, and feature analysis, the project contributes to proactive water quality management, aiming for global access to clean and safe drinking water.
 
 ## Exploratory Data Analysis (EDA)
 
@@ -26,7 +22,7 @@ The project employed various machine learning algorithms for classification, inc
 
 ## Application Deployment
 
-A demo application was deployed using Flask, offering a simple web form for users to input water quality parameters and receive predictions on water potability. The application's code is hosted on [GitHub](https://github.com/Projects-UNH/Water-Quality-Prediction).
+A demo application was deployed using Flask, offering a simple web form for users to input water quality parameters and receive predictions on water potability. The application's code is hosted on [GitHub]().
 
 ## How to Run the Flask Application
 
