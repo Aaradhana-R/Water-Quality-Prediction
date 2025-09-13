@@ -1,4 +1,6 @@
+import streamlit as st 
 import joblib
+import numpy  as np 
 
 # Load the trained model
 model = joblib.load("svm.pkl")
