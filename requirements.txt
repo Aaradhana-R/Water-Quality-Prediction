@@ -6,7 +6,7 @@ seaborn==0.11.2
 joblib==1.1.0
 gunicorn==20.1.0
 numpy==1.27.5
-streamlit==1.25.0
+
 
 
 
